@@ -10,24 +10,24 @@
 <!-- INTRO -->
 <div align="center">
 
-### Hi there 👋 I'm Emmanuel — based in Dar es Salaam, Tanzania.
+### Hi there  I'm Emmanuel — based in Dar es Salaam, Tanzania.
 
 I build technology that works — and fix it when it doesn't.
 
 IT support, full-stack web development, server deployment, data analysis, and GIS surveying.
 Not just one area. All of it.
 
-**🔭 Currently:** IT Support @ Geodata · Front-End Intern @ Subcode
-**🌱 Building:** Machine learning projects in Python (churn prediction, sales forecasting, fraud detection)
-**📫 Reach me:** emmanuelcyprian268@gmail.com
-**🌍 Portfolio:** [cyprian-tekisalama.netlify.app](https://cyprian-tekisalama.netlify.app)
+**Currently:** IT Support @ Geodata · Front-End Intern @ Subcode
+**Building:** Machine learning projects in Python (churn prediction, sales forecasting, fraud detection)
+**Reach me:** emmanuelcyprian268@gmail.com
+**Portfolio:** [cyprian-tekisalama.netlify.app](https://cyprian-tekisalama.netlify.app)
 
 </div>
 
 ---
 
 <!-- BADGES / TECH STACK -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Front-End**
 
@@ -67,25 +67,25 @@ Not just one area. All of it.
 ---
 
 <!-- WHAT I DO -->
-## 💡 What I Do
+##  What I Do
 
 | Area | What it means day-to-day |
 |---|---|
-| 🌐 **Web Development** | Build full-stack web apps with React, Vite, FastAPI, and PostgreSQL — from design to live deployment |
-| 🖥️ **IT Support & Infrastructure** | PC repair, networks, printers, CCTV, Microsoft 365 — keeping office technology running |
-| 🐳 **Server & VPS Deployment** | Linux VPS, Docker, Nginx, Certbot SSL — production deployments that stay online |
-| 📊 **Data & Analytics** | Python, SQL, Power BI, Tableau — cleaning and visualising data for business decisions |
-| 🗺️ **GIS & Field Surveying** | FTTH network surveys using SW Maps and Google Earth across Dar es Salaam |
-| 📱 **Mobile Development** | React Native apps with authentication, push notifications, and real-time features |
+|  **Web Development** | Build full-stack web apps with React, Vite, FastAPI, and PostgreSQL — from design to live deployment |
+|  **IT Support & Infrastructure** | PC repair, networks, printers, CCTV, Microsoft 365 — keeping office technology running |
+|  **Server & VPS Deployment** | Linux VPS, Docker, Nginx, Certbot SSL — production deployments that stay online |
+|  **Data & Analytics** | Python, SQL, Power BI, Tableau — cleaning and visualising data for business decisions |
+|  **GIS & Field Surveying** | FTTH network surveys using SW Maps and Google Earth across Dar es Salaam |
+|  **Mobile Development** | React Native apps with authentication, push notifications, and real-time features |
 
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+##  Featured Projects
 
 > ⭐ **Pin these repos to your profile so visitors see them first**
 
-### 🏠 MakaziSwap — Property Listing Platform
+###  MakaziSwap — Property Listing Platform
 > Full-stack property platform for the Tanzanian market
 
 - **What it does:** Public property search + private agent admin dashboard
@@ -95,7 +95,7 @@ Not just one area. All of it.
 
 ---
 
-### 🚨 Dharura Yako — Emergency Reporting App
+###  Dharura Yako — Emergency Reporting App
 > Mobile app for real-time emergency reporting and multi-agency coordination
 
 - **What it does:** Citizens report emergencies; agencies coordinate response with live status updates
@@ -105,7 +105,7 @@ Not just one area. All of it.
 
 ---
 
-### 🖥️ Javastore POS — VPS Hosting & Deployment
+###  Javastore POS — VPS Hosting & Deployment
 > Migrated a local PHP point-of-sale system to a live, secured Linux server
 
 - **What it does:** PHP POS running on production VPS with custom domain and SSL
@@ -115,7 +115,7 @@ Not just one area. All of it.
 
 ---
 
-### 🌐 Geodata Website & VPS Infrastructure
+###  Geodata Website & VPS Infrastructure
 > Full server infrastructure build and deployment for a real company
 
 - **What it does:** Live company website deployed on Linux VPS with Docker and SSL
@@ -125,7 +125,7 @@ Not just one area. All of it.
 
 ---
 
-### 📊 Customer Churn Prediction *(In Progress)*
+###  Customer Churn Prediction *(In Progress)*
 > ML model that identifies at-risk customers before they leave
 
 - **What it does:** Predicts customer churn using real telecom data and translates results into estimated revenue impact
@@ -135,7 +135,7 @@ Not just one area. All of it.
 
 ---
 
-### 📈 Retail Sales Forecasting Dashboard *(In Progress)*
+###  Retail Sales Forecasting Dashboard *(In Progress)*
 > Time-series forecasting tool with a live Streamlit dashboard
 
 - **What it does:** Predicts future stock needs from sales history — usable by non-technical managers
@@ -146,7 +146,7 @@ Not just one area. All of it.
 ---
 
 <!-- GITHUB STATS -->
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Not just one area. All of it.
 ---
 
 <!-- EXPERIENCE SNAPSHOT -->
-## 🏢 Experience Snapshot
+##  Experience Snapshot
 
 ```
 IT Support Technician      @ Geodata            Jan 2026 – Present
@@ -179,28 +179,28 @@ IT Support Intern          @ Tarime Town Council Aug – Oct 2023
 ---
 
 <!-- CURRENTLY LEARNING -->
-## 🌱 Currently Building
+##  Currently Building
 
-- 🤖 **Machine Learning** — Customer churn prediction, sales forecasting, fraud detection
-- 🐍 **Python Data Science** — Scikit-learn, XGBoost, Streamlit dashboards
-- ☁️ **Cloud & DevOps** — Deepening Docker, Nginx, and VPS administration skills
+-  **Machine Learning** — Customer churn prediction, sales forecasting, fraud detection
+-  **Python Data Science** — Scikit-learn, XGBoost, Streamlit dashboards
+-  **Cloud & DevOps** — Deepening Docker, Nginx, and VPS administration skills
 
 ---
 
 <!-- CONNECT -->
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=firefox&logoColor=white)](https://cyprian-tekisalama.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelcyprian268@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-cyprian)
 
 </div>
 
 <div align="center">
 
-📍 Dar es Salaam, Tanzania &nbsp;|&nbsp; 💼 Open to full-time, contract & freelance opportunities
+ Dar es Salaam, Tanzania &nbsp;|&nbsp;  Open To contract & freelance opportunities
 
 </div>
 
