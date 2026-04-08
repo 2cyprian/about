@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A3A5C,100:4A90A4&height=200&section=header&text=Emmanuel%20C.%20Cyprian&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IT%20Professional%20%7C%20Web%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=1a1b27&text=Emmanuel%20Cyprian&fontColor=70a5fd;" width="100%" />
 
 </div>
 
@@ -217,6 +217,5 @@ IT Support Intern          @ Tarime Town Council Aug – Oct 2023
 <!-- FOOTER WAVE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=120&section=footer" width="100%"/>
 
 </div>
