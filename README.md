@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=200&section=header&text=Emmanuel%20C.%20Cyprian&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IT%20Professional%20%7C%20Web%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A3A5C,100:4A90A4&height=200&section=header&text=Emmanuel%20C.%20Cyprian&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IT%20Professional%20%7C%20Web%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -148,10 +148,22 @@ Not just one area. All of it.
 <!-- GITHUB STATS -->
 ##  GitHub Stats
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2cyprian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cyprian&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2cyprian&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2cyprian&theme=tokyonight&hide_border=true" />
 
 </div>
 
