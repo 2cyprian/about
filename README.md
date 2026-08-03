@@ -150,11 +150,6 @@ Not just one area. All of it.
 <!-- GITHUB STATS -->
 ##  GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2cyprian&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
 
 <div align="center">
 
