@@ -1,9 +1,9 @@
 <!-- HEADER -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=1a1b27&text=Emmanuel%20Cyprian&fontColor=70a5fd;" width="100%" />
 
-</div>
+</div> -->
 
 ---
 
